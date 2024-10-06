@@ -170,7 +170,7 @@
     "hasGameServer": false,
     "showMinimapHud": true,
     "chatdialogvisible": true,
-    "noHandbookPause": true
+    "noHandbookPause": false
   },
   "floatSettings": {
     "guiScale": 0.75,
