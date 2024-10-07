@@ -81,7 +81,7 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 1,
     "ssaoQuality": 0,
-    "viewDistance": 96,
+    "viewDistance": 64,
     "fieldOfView": 60,
     "maxFps": 30,
     "particleLevel": 20,

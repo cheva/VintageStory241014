@@ -27,6 +27,8 @@ Logs/*
 
 # Add Saves via git add SAVENAME.vcdbs -f
 *.vcdbs
+*.vcdbs*
+*.vcdbs.*
 
 VintagestoryData/Logs/client-*.txt
 VintagestoryData/Logs/server-*.txt
