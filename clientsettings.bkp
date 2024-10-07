@@ -179,7 +179,7 @@
     "lodBiasFar": 0.67,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
-    "gammaLevel": 1.7,
+    "gammaLevel": 1.6,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
     "sepiaLevel": 0.0,
