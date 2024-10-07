@@ -1,0 +1,18 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Nails and Strips Clay Mold",
+  "Version": "1.0.2",
+  "NetworkVersion": null,
+  "Description": "Adds a Clay Nails and Strips Mold",
+  "Website": "",
+  "ModID": "nailsmold",
+  "Authors": [
+    "VintageDerek"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {}
+}
