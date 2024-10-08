@@ -24,6 +24,8 @@ Logs/
 Logs/*
 
 *.zip
+*.7z
+*.zzz
 
 # Add Saves via git add SAVENAME.vcdbs -f
 *.vcdbs
