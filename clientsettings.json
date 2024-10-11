@@ -94,7 +94,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 60,
-    "musicLevel": 10,
+    "musicLevel": 0,
     "screenWidth": 1280,
     "screenHeight": 720,
     "gameWindowMode": 1,
