@@ -11,6 +11,10 @@ assets
 assets/
 assets/*
 
+*.hold
+*.hold/
+*.hold/*
+
 Lib*
 Lib*/
 Lib*/*
