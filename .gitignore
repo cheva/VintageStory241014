@@ -19,9 +19,9 @@ Lib*
 Lib*/
 Lib*/*
 
-assets
-assets/
-assets/*
+Cache
+Cache/
+Cache/*
 
 Logs
 Logs/
